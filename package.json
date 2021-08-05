@@ -1,0 +1,26 @@
+{
+  "name": "image-converter",
+  "version": "1.0.0",
+  "description": "画像のリサイズ及び圧縮",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrowUp-Haruno/image-converter.git"
+  },
+  "keywords": [
+    "resize",
+    "compression"
+  ],
+  "author": "Daisuke Wada <m_ragna01@i.softbank.jp> (https://qiita.com/GrowUp-Haruno)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrowUp-Haruno/image-converter/issues"
+  },
+  "homepage": "https://github.com/GrowUp-Haruno/image-converter#readme",
+  "dependencies": {
+    "sharp": "^0.28.3"
+  }
+}
